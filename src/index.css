@@ -1,0 +1,18 @@
+body {
+  margin: auto;
+  padding: 0;
+  max-width: 900px;
+  font-family: sans-serif;
+}
+
+.stockList {
+  padding: 8px;
+  border-bottom: 1px dotted black;
+}
+.company{
+  color: blue;
+}
+  
+.stockLink {
+  text-decoration: none;
+}
